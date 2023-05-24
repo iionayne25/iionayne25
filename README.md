@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=iionayne25&color=ff69b4&style=flat-square)
 <!--
 **iionayne25/iionayne25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
